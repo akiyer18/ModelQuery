@@ -1,0 +1,402 @@
+[
+  {
+    "model_no": "I-7547\u00a0",
+    "description": "Full Description: Ethernet(TCP/IP) to HART Converter. Short Description: HART Converter. Serial Port: not available. Ethernet: Supports TCI and IP ethernet port. USB: No USB port available. Channels: Supports 8 HART devices. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports HART input protocol. Output Protocol: Supports Ethernet TCP and IP output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "I-7567\u00a0",
+    "description": "Full Description: USB to HART converter. Short Description: HART Converter. Serial Port: not available. Ethernet: not available. USB: No USB port available. Channels: Supports 8 HART devices. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports HART input protocol. Output Protocol: Supports USB output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "I-7570\u00a0",
+    "description": "Full Description: Serial to HART converter. Short Description: HART Converter. Serial Port: Supports RS232, RS422, and RS485 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 8 HART devices. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports HART input protocol. Output Protocol: Supports RS232, RS485, and RS422 output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "HRT-227CS\u00a0",
+    "description": "Full Description: HART to Single Mode Fiber Converter. Short Description: HART Converter. Serial Port: not available. Ethernet: not available. USB: No USB port available. Channels: Supports 8 HART devices. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports HART input protocol. Output Protocol: Supports FIBER output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "HRT-710\u00a0",
+    "description": "Full Description: Modbus/RTU & ASCII to HART gateway. Short Description: HART Gateway. Serial Port: Supports RS232 and RS485 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 8 HART devices. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports HART input protocol. Output Protocol: Supports Modbus RTU output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "HRT-711\u00a0",
+    "description": "Full Description: Modbus TCP/UDP to HART Gateway. Short Description: HART Gateway. Serial Port: not available. Ethernet: Supports TCP and IP ethernet port. USB: No USB port available. Channels: Supports 8 HART devices. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports HART input protocol. Output Protocol: Supports Modbus TCP and IP output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "I-7550-B\u00a0",
+    "description": "Full Description: PROFIBUS to RS-232/422/485 Converter\u00a0(Plastic Case). Short Description: Profibus Converter. Serial Port: Supports RS232, RS422, and RS485 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 8 slave devices. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports Profibus DP input protocol. Output Protocol: Supports RS232, RS485, and RS422 output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "I-7550E\u00a0",
+    "description": "Full Description: PROFIBUS to Ethernet Converter\u00a0(Plastic Case). Short Description: Profibus Converter. Serial Port: not available. Ethernet: Supports TCP and IP ethernet port. USB: No USB port available. Channels: Supports 6 slave devices. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports Profibus DP input protocol. Output Protocol: Supports TCP and IP output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "PROFI-2510\u00a0",
+    "description": "Full Description: Isolated PROFIBUS Repeater. Short Description: Profibus Repeater. Serial Port: not available. Ethernet: not available. USB: No USB port available. Channels: Supports 15 slave devices. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports Profibus DP input protocol. Output Protocol: Supports Profibus DP output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "PROFI-2541-SC\u00a0",
+    "description": "Full Description: PROFIBUS DP to Multi-mode Fiber Converter (SC-Type). Short Description: Profibus Converter. Serial Port: not available. Ethernet: not available. USB: No USB port available. Channels: Supports 15 slave devices. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports Profibus DP input protocol. Output Protocol: Supports FIBER output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "GW-7552-B\u00a0",
+    "description": "Full Description: PROFIBUS to Modbus Gateway (Plastic Case). Short Description: Profibus Gateway. Serial Port: Supports RS485 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 8 slave devices. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports Profibus DP input protocol. Output Protocol: Supports Modbus RTU output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "GW-7553-B\u00a0",
+    "description": "Full Description: PROFIBUS to Modbus TCP Gateway (Plastic Case). Short Description: Profibus Gateway. Serial Port: not available. Ethernet: Supports TCP and IP ethernet port. USB: No USB port available. Channels: Supports 8 slave devices. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports Profibus DP input protocol. Output Protocol: Supports Modbus TCP and IP output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "GW-7553-CPM\u00a0",
+    "description": "Full Description: PROFIBUS to CANopen Gateway (Plastic Case). Short Description: CANopen Gateway. Serial Port: not available. Ethernet: not available. USB: No USB port available. Channels: Supports 8 slave devices. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports Profibus DP input protocol. Output Protocol: Supports CANOpen output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "I-7580\u00a0",
+    "description": "Full Description: PROFINET to RS-232/422/485 Converter. Short Description: Profinet Converter. Serial Port: Supports RS232, RS485, and RS422 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 8 slave devices. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports Profinet input protocol. Output Protocol: Supports RS232, RS485, and RS422 output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "GW-7662\u00a0",
+    "description": "Full Description: PROFINET to Modbus RTU/ASCII Gateway. Short Description: Profinet Gateway. Serial Port: not available. Ethernet: not available. USB: No USB port available. Channels: Supports 8 slave devices. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports Profinet input protocol. Output Protocol: Supports Modbus RTU output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "GW-7663\u00a0",
+    "description": "Full Description: PROFINET to Modbus TCP Gateway. Short Description: Profinet Gateway. Serial Port: not available. Ethernet: Supports TCP and IP ethernet port. USB: No USB port available. Channels: Supports 8 slave devices. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports Profinet input protocol. Output Protocol: Supports Modbus TCP and IP output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "I-2533CS\u00a0",
+    "description": "Full Description: CAN to Single-mode Fiber Bridge; 1 (30 km) single-mode, SC connector. Short Description: CAN Converter. Serial Port: not available. Ethernet: not available. USB: No USB port available. Channels: Supports 1 CAN device. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports CANBus input protocol. Output Protocol: Supports FIBER output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "I-7531-FD-G\u00a0",
+    "description": "Full Description: Two-channel Isolated CAN / CAN FD Signal Repeater. Short Description: CAN Repeater. Serial Port: not available. Ethernet: not available. USB: No USB port available. Channels: Supports 2 CAN devices. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports CANBus input protocol. Output Protocol: Supports CANBus output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "I-7530A-G\u00a0",
+    "description": "Full Description: Intelligent RS-232/485/422 to CAN converter. Short Description: CAN Converter. Serial Port: Supports RS232, RS422, and RS485 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 8 CAN devices. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports CANBus input protocol. Output Protocol: Supports RS232, RS485, and RS422 output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "I-7530A-MR-FD",
+    "description": "Full Description: Modbus RTU to CAN Converter. Short Description: CAN Gateway. Serial Port: Supports RS232, RS422, and RS486 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 8 CAN devices. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports CANBus input protocol. Output Protocol: Supports Modbus RTU output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "I-7540D-MTCP-G\u00a0",
+    "description": "Full Description: CAN to Ethernet / Modbus TCP / Modbus RTU Converter (Plastic Case). Short Description: CAN Gateway. Serial Port: Supports RS232 and RS485 serial port. Ethernet: Supports Modbus TCP and IP ethernet port. USB: No USB port available. Channels: Supports 8 CAN devices. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports CANBus input protocol. Output Protocol: Supports Modbus RTU and TCPIP output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "I-7565-H2-G\u00a0",
+    "description": "Full Description: High Performance Intelligent USB to 2-port CAN bus converter (Plastic Case). Short Description: CAN Bus Gateway. Serial Port: not available. Ethernet: not available. USB: No USB port available. Channels: Supports 2 s. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports CANBus input protocol. Output Protocol: Supports USB output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "ECAN-240-FD\u00a0",
+    "description": "Full Description: Modbus TCP to 2-port CAN FD Gateway. Short Description: CAN Bus Gateway. Serial Port: not available. Ethernet: Supports Modbus TCP and IP ethernet port. USB: No USB port available. Channels: Supports 2 s. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports CANBus input protocol. Output Protocol: Supports Modbus TCP and IP output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "GW-7433D\u00a0",
+    "description": "Full Description: Modbus TCP server/RTU slave to CANopen Master Gateway. Short Description: CANopen Gateway. Serial Port: Supports RS232 and RS485 serial port. Ethernet: Supports Modbus TCP and IP ethernet port. USB: No USB port available. Channels: Supports 8 CAN devices. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports CANOpen input protocol. Output Protocol: Supports Modbus RTU and TCPIP output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "GW-2492M\u00a0",
+    "description": "Full Description: BACnet/IP Server to Modbus RTU Master Gateway. Short Description: BACnet/IP Gateway. Serial Port: Supports RS232 and RS486 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 8 bacnet devices. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports BACnet and IP input protocol. Output Protocol: Supports Modbus RTU output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "GW-2493M\u00a0",
+    "description": "Full Description: BACnet/IP Server to Modbus TCP Client Gateway. Short Description: BACnet/IP Gateway. Serial Port: not available. Ethernet: Supports Modbus TCP and IP ethernet port. USB: No USB port available. Channels: Supports 8 bacnet devices. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports BACnet and IP input protocol. Output Protocol: Supports Modbus TCP and IP output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "I-7590\u00a0",
+    "description": "Full Description: RS-232/422/485 to M-Bus converter. Short Description: M-Bus Converter. Serial Port: Supports RS232, RS422, and RS485 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 100 slave devices. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports M-Bus input protocol. Output Protocol: Supports RS232, RS485, and RS422 output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "GW-7828\u00a0",
+    "description": "Full Description: Modbus RTU slave to M-Bus master gateway. Short Description: M-Bus Gateway. Serial Port: Supports RS232, RS422, and RS485 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 100 slave devices. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports M-Bus input protocol. Output Protocol: Supports Modbus RTU output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "GW-7838-M\u00a0",
+    "description": "Full Description: Modbus TCP server to M-Bus master gateway. Short Description: M-Bus Gateway. Serial Port: not available. Ethernet: Supports TCP and IP ethernet port. USB: No USB port available. Channels: Supports 100 slave devices. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports M-Bus input protocol. Output Protocol: Supports Modbus TCP and IP output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "DNP-211\u00a0",
+    "description": "Full Description: DNP3 Master to Modbus TCP Server Gateway. Short Description: DNP3 Gateway. Serial Port: not available. Ethernet: Supports TCP and IP ethernet port. USB: No USB port available. Channels: Supports 16 clients. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports DNP3 input protocol. Output Protocol: Supports Modbus TCP and IP output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "IEC850-211-S\u00a0",
+    "description": "Full Description: Modbus TCP to IEC-61850 Gateway. Short Description: IEC-61850 Gateway. Serial Port: not available. Ethernet: not available. USB: No USB port available. Channels: Supports 561850 5 iec61850 clients. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports IEC61850 input protocol. Output Protocol: Supports Modbus TCP and IP output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "M-7017-G",
+    "description": "Full Description: 8-ch AI Module using DCON and Modbus Protocols (Gray Cover). Short Description: Analog Input Module. Serial Port: Supports RS485 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 8 s. 8 Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports Voltage and Current Input input protocol. Output Protocol: Supports Modbus RTU output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "M-7018-G",
+    "description": "Full Description: 8-ch Thermocouple Input Module using DCON and Modbus Protocols (Gray Cover). Short Description: Thermocouple Input Module. Serial Port: Supports RS485 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 8 s. 8 Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports Thermocouple Input input protocol. Output Protocol: Supports Modbus RTU output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "M-7019R-G",
+    "description": "Full Description: 8-ch Universal AI Module with High Voltage Protection, using DCON and Modbus Protocols (Gray Cover). Short Description: Analog Input Module. Serial Port: Supports RS485 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 8 s. 8 Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports Thermocouple, Cuurent, and Voltage Input input protocol. Output Protocol: Supports Modbus RTU output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "M-7015P-G",
+    "description": "Full Description: 6-ch RTD Input Module with 3-wire Lead Resistance Elimination using DCON and Modbus Protocols (Gray Cover). Short Description: RTD Input Module. Serial Port: Supports RS485 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 6 s. 6 Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports RTD Input input protocol. Output Protocol: Supports Modbus RTU output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "I-7016D-G",
+    "description": "Full Description: 2-ch 4-wire Strain Gauge Input Module with LED Display using DCON Protocol (Gray Cover). Short Description: Strain Gauge Input Module. Serial Port: Supports RS485 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 2 s. 2 Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports Strain Gauge input protocol. Output Protocol: Supports DCON output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "M-7028D-G",
+    "description": "Full Description: 8-ch 12-bit AO Module with LED Display, using DCON and Modbus Protocols (Gray Cover). Short Description: Analog Output Module. Serial Port: Supports RS485 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 8 s. No Analog Input ports. 8 Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports Voltage and Current input protocol. Output Protocol: Supports Modbus RTU output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "M-7026-G",
+    "description": "Full Description: 6-ch AI, 2-ch AO, 3-ch DI and 3-ch DO Module using DCON and Modbus Protocols (Gray Cover). Short Description: Multifunction I/O Module. Serial Port: Supports RS485 serial port. Ethernet: not available. USB: No USB port available. Channels: No channel information available. 6 Analog Input ports. 2 Analog Output ports. 3 Digital Input ports. 3 Digital Output ports. Memory: Memory not available. Input Protocol: Supports Analog and Digital input protocol. Output Protocol: Supports Modbus RTU output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "M-7051D-G",
+    "description": "Full Description: 16-ch Isolated (Dry, Wet) DI Module with LED Display, using DCON and Modbus Protocols (Gray Cover). Short Description: Digital Input Module. Serial Port: Supports RS485 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 16 s. No Analog Input ports. No Analog Output ports. 16 Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports Digital Input input protocol. Output Protocol: Supports Modbus RTU output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "M-7045D-G",
+    "description": "Full Description: 16-ch Isolated (Source, PNP, 10~40 VDC) DO Module with LED Display, using DCON and Modbus Protocols (Gray Cover). Short Description: Digital Output Module. Serial Port: Supports RS485 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 16 s. No Analog Input ports. No Analog Output ports. 16 Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports Digital Output input protocol. Output Protocol: Supports Modbus RTU output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "M-7055D-G",
+    "description": "Full Description: 8-ch Isolated (Dry, Wet) DI and 8-ch Isolated (Source, PNP, 10~40 VDC) DO Module with LED Display, using DCON and Modbus Protocols (Gray Cover). Short Description: Digital I/O Module. Serial Port: Supports RS485 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 88 8 & 8s. No Analog Input ports. No Analog Output ports. 8 Digital Input ports. 8 Digital Output ports. Memory: Memory not available. Input Protocol: Supports Digital Input & Output input protocol. Output Protocol: Supports Modbus RTU output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "M-7061D-G",
+    "description": "Full Description: 12-ch Power Relay Module with LED Display, using DCON and Modbus Protocols (Gray Cover). Short Description: Power Relay Module. Serial Port: Supports RS485 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 12 s. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports 12 Ch Power Relay input protocol. Output Protocol: Supports Modbus RTU output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "M-7069D-G",
+    "description": "Full Description: 8-ch Power Relay (4x Form A and 4x Form C) Module with LED Display, using DCON and Modbus Protocols (Gray Cover). Short Description: Power Relay Module. Serial Port: Supports RS485 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 8 s. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports Power Relay (FORM A & FORM C) input protocol. Output Protocol: Supports Modbus RTU output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "tM-AD5\u00a0",
+    "description": "Full Description: 5-channel Isolation Analog Input Module with High Voltage Protection. Short Description: Analog Input Module. Serial Port: Supports RS485 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 5 s. 5 Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports Voltage input protocol. Output Protocol: Supports Modbus RTU output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "tM-AD5C\u00a0",
+    "description": "Full Description: 5-channel Isolation Current Input Module. Short Description: Analog Current Input Module. Serial Port: Supports RS485 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 5 s. 5 Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports Current input protocol. Output Protocol: Supports Modbus RTU output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "tM-P4C4\u00a0",
+    "description": "Full Description: 4-channel Isolation DI (Wet) and 4-channel Isolation DO (Sink, NPN) Module. Short Description: Digital I/O Module. Serial Port: Supports RS485 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 44 4 & 4s. No Analog Input ports. No Analog Output ports. 4 Digital Input ports. 4 Digital Output ports. Memory: Memory not available. Input Protocol: Supports Digital Input and Output input protocol. Output Protocol: Supports Modbus RTU output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "tDS-715",
+    "description": "Full Description: Tiny (1x RS-422/485) Serial-to-Ethernet Device Server with PoE (RoHS) Includes DC-jack to 2-wire power cable, 0.3 M. Short Description: Serial Device Server. Serial Port: Supports RS232, RS422, and RS485 serial port. Ethernet: Supports TCP and IP ethernet port. USB: No USB port available. Channels: Supports 1 . No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports RS232, RS422, and RS485 input protocol. Output Protocol: Supports Ethernet TCP and IP output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "DS-2235i",
+    "description": "Full Description: Serial-to-Ethernet Device Server with 2-port Ethernet Switch and 3-port Isolated RS-422/485. Short Description: Serial Device Server. Serial Port: Supports RS422 and 485 serial port. Ethernet: Supports 2x TCP and IP ethernet port. USB: No USB port available. Channels: Supports 3 s. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports RS422 and RS485 input protocol. Output Protocol: Supports 2X Ethernet TCP and IP output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "PDS-755",
+    "description": "Full Description: Programmable (1x RS-232 and 4x RS-485) Serial-to-Ethernet Device Server. Short Description: Serial Device Server. Serial Port: Supports RS232 and 485 serial port. Ethernet: Supports TCP and IP ethernet port. USB: No USB port available. Channels: Supports 14 1 & 4s. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports RS232 and RS485 input protocol. Output Protocol: Supports Ethernet TCP and IP output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "MSM-508",
+    "description": "Full Description: 8-port Layer 2 Managed Switch with metal casing (RoHS) Includes CA-090510 Console Cable and 4SIX1K0000003 Wall mount. Short Description: Managed Switch. Serial Port: not available. Ethernet: Supports TCP and IP ethernet port. USB: No USB port available. Channels: Supports 8 s. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: nan. Output Protocol: nan. Cloud Connectivity: No cloud connectivity. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "MSM-508FCS-T",
+    "description": "Full Description: 8-port Industrial Ethernet Layer 2 Managed Switch with 2-Fiber Port (Single-mode, SC Connector). Short Description: Managed Switch with fiber. Serial Port: not available. Ethernet: Supports 8x Ethernet ethernet port. USB: No USB port available. Channels: Supports 82 8 & 2s. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports Ethernet + Fiber input protocol. Output Protocol: nan. Cloud Connectivity: No cloud connectivity. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "MDC-714",
+    "description": "Full Description: Modbus Data Concentrator with 1 x Ethernet and 1 x RS-232, 4 x RS-485. Short Description: Modbus Data Concentrator. Serial Port: Supports RS232 and RS485 serial port. Ethernet: Supports Modbus TCP and IP ethernet port. USB: No USB port available. Channels: Supports 14 1 & 4s. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports RS232 and RS485 input protocol. Output Protocol: Supports Modbus TCP and IP output protocol. Cloud Connectivity: No cloud connectivity. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "MDCL-705i",
+    "description": "Full Description: Modbus Data Concentrator with Ethernet, RS-485 Serial Ports and Data Logger, includes one 32 GB microSD card. Short Description: Modbus Data Concentrator. Serial Port: Supports RS485 serial port. Ethernet: Supports Modbus TCP and IP ethernet port. USB: No USB port available. Channels: Supports 5 s. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory: 32gb. Input Protocol: Supports MODBUS RTU input protocol. Output Protocol: Supports Modbus TCP and IP output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: Includes MicroSD slot."
+  },
+  {
+    "model_no": "MDC-211-WF",
+    "description": "Full Description: Wi-Fi Modbus Data Concentrator with 1 x Ethernet, 1 x RS-232 and 1 x RS-485. Short Description: Modbus Data Concentrator. Serial Port: Supports RS232 and RS485 serial port. Ethernet: Supports Modbus TCP and IP ethernet port. USB: No USB port available. Channels: Supports 1 . No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports Modbus RTU and TCP IP input protocol. Output Protocol: Supports Wi-Fi output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "NS-200AFCS-T",
+    "description": "Full Description: Industrial 10/100 Base-T to 100 Base-FX Media Converter; 1 single mode, SC connector. Short Description: Media Converter. Serial Port: not available. Ethernet: Supports TCP and IP ethernet port. USB: No USB port available. Channels: Supports 1 . No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports TCP and IP input protocol. Output Protocol: Supports Fiber output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "I-7561U",
+    "description": "Full Description: High-speed USB to Isolated RS-232/422/485 Converter with CA-USB18 Cable. Short Description: USB To Serial Converter. Serial Port: Supports RS232, 422, and 485 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 1 . No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports RS232, RS422, and RS485 input protocol. Output Protocol: Supports USB output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "I-7520A",
+    "description": "Full Description: Isolated RS-232 to RS-422/485 Converter. Short Description: Serial Converter. Serial Port: Supports RS232, 422, and 486 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 1 . No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports RS232 input protocol. Output Protocol: Supports RS422 and 485 output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "I-7551",
+    "description": "Full Description: Isolated RS-232 to RS-232 Repeater. Short Description: RS232 Repeater. Serial Port: Supports RS232 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 1 . No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports RS233 input protocol. Output Protocol: Supports RS232 output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "I-7514U",
+    "description": "Full Description: Isolated 4-channel RS-485 Repeater/Hub/Splitter. Short Description: RS485 Hub. Serial Port: Supports RS485 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 4 s. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports RS485 input protocol. Output Protocol: nan. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "tSH-735",
+    "description": "Full Description: Tiny (3x RS-485) Serial Port Sharer with PoE (RoHS) Includes CA-002 Cable. Short Description: Sharer / Splitter. Serial Port: Supports RS485 serial port. Ethernet: Supports TCP and IP ethernet port. USB: No USB port available. Channels: Supports 3 s. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports RS485 input protocol. Output Protocol: nan. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "USB 2514",
+    "description": "Full Description: USB to 4-port RS-232 Converter. Short Description: USB To RS232 Converter. Serial Port: Supports RS232 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 4 s. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports RS232 input protocol. Output Protocol: Supports USB output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "tGW-718",
+    "description": "Full Description: Tiny Modbus TCP to RTU/ASCII Gateway with PoE and 1-port RS-232/422/485. Short Description: Modbus Gateway. Serial Port: Supports RS232, 422, and 486 serial port. Ethernet: Supports Modbus TCP and IP ethernet port. USB: No USB port available. Channels: Supports 1 . No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports Modbus RTU input protocol. Output Protocol: Supports Modbus TCP and IP output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "ZT-2017",
+    "description": "Full Description: ZigBee Wireless 8-ch Analog Input Module with High Voltage Protection (ZigBee Router). Short Description: Analog Input Module with ZigBee. Serial Port: not available. Ethernet: not available. USB: No USB port available. Channels: Supports 8 s. 8 Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports Voltage & Current input protocol. Output Protocol: Supports ZigBee output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "ZT-2055",
+    "description": "Full Description: ZigBee Wireless 8-ch Isolated DI and 8-ch Isolated DO Module (ZigBee Router). Short Description: ZigBee Digital I/O  Module. Serial Port: not available. Ethernet: not available. USB: No USB port available. Channels: Supports 8 s. No Analog Input ports. No Analog Output ports. 8 Digital Input ports. 8 Digital Output ports. Memory: Memory not available. Input Protocol: Supports Digital I and O Module input protocol. Output Protocol: Supports ZigBee output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "ZT-2026",
+    "description": "Full Description: ZigBee Wireless 4-ch Voltage Input, 2-ch Voltage Output, 2-ch DI and 2-ch DO Module (ZigBee Router). Short Description: ZigBee Multifunction Module. Serial Port: not available. Ethernet: not available. USB: No USB port available. Channels: Supports 2 s. No Analog Input ports. 2 Analog Output ports. 2 Digital Input ports. 2 Digital Output ports. Memory: Memory not available. Input Protocol: Supports Voltage & Digital Input and Output input protocol. Output Protocol: Supports ZigBee output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "ZT-2570",
+    "description": "Full Description: Ethernet/RS-232/RS-485 to ZigBee Converter (ZigBee Coordinator). Short Description: ZigBee Converter. Serial Port: Supports RS232, RS485, and  serial port. Ethernet: Supports TCP and IP ethernet port. USB: No USB port available. Channels: Supports 1 . No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports RS232 and RS485 input protocol. Output Protocol: Supports ZigBee output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "PMC-5231M-4GE",
+    "description": "Full Description: Industrial IoT Power Meter Concentrator (Support 4G communication.. Short Description: Power Concentrator Module. Serial Port: Supports RS232 and 485 serial port. Ethernet: Supports TCP and IP ethernet port. USB: No USB port available. Channels: Supports 16 s. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory: 32gb. Input Protocol: Supports Modbus TCP and RTU input protocol. Output Protocol: Supports SNMP & SNMP Trap, MQTT, and DDNS output protocol. Cloud Connectivity: Cloud connectivity available. SIM Card: Supports a single 4G SIM card. Wi-Fi: No Wi-Fi support. Micro SD: Includes 32GB MicroSD card."
+  },
+  {
+    "model_no": "WISE-5231M-4GE",
+    "description": "Full Description: IIoT Edge Controller (Metal Case) (Support 4G Communication. Short Description: IOT Gateway. Serial Port: Supports RS232 and 486 serial port. Ethernet: Supports TCP and IP ethernet port. USB: No USB port available. Channels: Supports 16 s. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory: 32gb. Input Protocol: Supports Modbus TCP and RTU input protocol. Output Protocol: Supports SNMP & SNMP Trap, FTP, MQTT, and CGI Command DDNS output protocol. Cloud Connectivity: Cloud connectivity available. SIM Card: Supports a single 4G SIM card. Wi-Fi: No Wi-Fi support. Micro SD: Includes 32GB MicroSD card."
+  },
+  {
+    "model_no": "SG-3071",
+    "description": "Full Description: DC Voltage Input Signal Conditioner. Short Description: Signal Conditiner Module. Serial Port: not available. Ethernet: not available. USB: No USB port available. Channels: Supports 1 . 1 Analog Input port. 1 Analog Output port. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports 0-5VDC and 0-10VDC input protocol. Output Protocol: Supports 0-5VDC, 0-10VDC OR 0-20mA, and 4-20mA output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "SG-3081-G",
+    "description": "Full Description: DC Current Input Signal Conditioner. Short Description: Signal Conditiner Module. Serial Port: not available. Ethernet: not available. USB: No USB port available. Channels: Supports 1 . 1 Analog Input port. 1 Analog Output port. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports 0-20mA and 4-20mA input protocol. Output Protocol: Supports 0-5VDC, 0-10VDC OR 0-20mA, and 4-20mA output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "ET-7017\u00a0",
+    "description": "Full Description: Ethernet I/O Module with 8-ch AI, 4-ch DO. Short Description: Analog input to Modbus TCP/IP. Serial Port: not available. Ethernet: Supports TCP and IP ethernet port. USB: No USB port available. Channels: Supports 1 . 8 Analog Input ports. No Analog Output ports. No Digital Input ports. 4 Digital Output ports. Memory: Memory not available. Input Protocol: Supports Analog Input (150mV, 500mV, 1V, 5V, 10V, 20mA, 0-20mA, and 4-20mA input protocol. Output Protocol: Supports Modbus TCP and IP output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "ET-7026",
+    "description": "Full Description: Ethernet I/O Module with 6-ch AI, 2-ch AO, 2-ch DI, 2-ch DO. Short Description: Multifunction Input To Modbus TCP/IP. Serial Port: not available. Ethernet: Supports TCP and IP ethernet port. USB: No USB port available. Channels: Supports 1 . 6 Analog Input ports. 2 Analog Output ports. 2 Digital Input ports. 2 Digital Output ports. Memory: Memory not available. Input Protocol: Supports Analog Input 500mV, 1V, 5V, 10V, 20mA, 0-20mA, 4-20mA, Digigital I, and O input protocol. Output Protocol: Supports Modbus TCP and IP output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "ET-7051",
+    "description": "Full Description: Ethernet I/O Module with 16-ch DI. Short Description: Digital Input To Modbus TCP/IP. Serial Port: not available. Ethernet: Supports TCP and IP ethernet port. USB: No USB port available. Channels: Supports 1 . No Analog Input ports. No Analog Output ports. 16 Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports Digital Input input protocol. Output Protocol: Supports Modbus TCP and IP output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "ET-7052",
+    "description": "Full Description: Ethernet I/O Module with 8-ch DI, 8-ch DO. Short Description: Digital I/O To Modbus TCP/IP. Serial Port: not available. Ethernet: Supports TCP and IP ethernet port. USB: No USB port available. Channels: Supports 1 . No Analog Input ports. No Analog Output ports. 8 Digital Input ports. 8 Digital Output ports. Memory: Memory not available. Input Protocol: Supports Digital Input & Output input protocol. Output Protocol: Supports Modbus TCP and IP output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "ET-7042",
+    "description": "Full Description: Ethernet I/O Module with 16-ch DO. Short Description: Digital Output To Modbus TCP/IP. Serial Port: not available. Ethernet: Supports TCP and IP ethernet port. USB: No USB port available. Channels: Supports 1 . No Analog Input ports. No Analog Output ports. No Digital Input ports. 16 Digital Output ports. Memory: Memory not available. Input Protocol: Supports Digital Output input protocol. Output Protocol: Supports Modbus TCP and IP output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "DL-10",
+    "description": "Full Description: Remote Temperature/Humidity/Dew Point Sensing Module, Using Modbus RTU Protocol, 3 M (White Cover). Short Description: Tempreture and Humidity To Modbus RTU. Serial Port: Supports RS485 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 1 . 1 Analog Input port. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports Tempreture & Humidity input protocol. Output Protocol: Supports Modbus TCP and IP output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "DL-100S-E-W",
+    "description": "Full Description: IP66 Remote Temperature and Humidity Data Logger with LCD Display, Using Modbus TCP and MQTT Protocols. Short Description: Tempreture and Humidity Data Logger With MQTT Protocol and TCP/IP. Serial Port: not available. Ethernet: Supports TCP and IP ethernet port. USB: No USB port available. Channels: Supports 1 . 1 Analog Input port. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports Tempreture & Humidity input protocol. Output Protocol: Supports Modbus TCP and IP & MQTT output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "DL-1023",
+    "description": "Full Description: Remote PM1/2.5/10/CO/CO2/Temperature/Humidity/Dew Point Data Logger with Ethernet/RS-485 and PoE. Short Description: Industrial Gases Data Logger. Serial Port: Supports RS485 serial port. Ethernet: Supports TCP and IP ethernet port. USB: No USB port available. Channels: Supports 1 . 1 Analog Input port. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports Tempreture & Humidity PM1, 2.5, CO, and CO2 input protocol. Output Protocol: Supports Modbus RTU & TCP and IP & MQTT output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "R2010-4L",
+    "description": "Full Description: Industrial Cellular Gateway 2 ETH+1RS232/RS485+ 1 DI + 1DO. Short Description: Industrial Cellular Gateway. Serial Port: Supports RS232 and 485 serial port. Ethernet: Supports 2 x Ethernet ethernet port. USB: No USB port available. Channels: No channel information available. No Analog Input ports. No Analog Output ports. 1 Digital Input port. 1 Digital Output port. Memory: Memory: 16mb. Input Protocol: Supports Modbus RTU and TCP input protocol. Output Protocol: Supports IPSec, mqtt, dnp3, iec104, and L2TP output protocol. Cloud Connectivity: Cloud connectivity available. SIM Card: Supports dual 4G SIM cards. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "R3000-L4L",
+    "description": "Full Description: Industrial Dual SIM Cellular VPN Router 1 Eth + 1 RS-232 + 1 RS-485 + 1 USB Host. Short Description: Dual SIM Cellular VPN Router. Serial Port: Supports RS232 and 485 serial port. Ethernet: Supports 1 x Ethernet ethernet port. USB: No USB port available. Channels: Supports 8 s. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory: 16mb. Input Protocol: Supports Modbus RTU and TCP input protocol. Output Protocol: Supports IPSec, mqtt, dnp3, iec104, and L2TP output protocol. Cloud Connectivity: Cloud connectivity available. SIM Card: Supports dual 4G SIM cards. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "R5020-Lite",
+    "description": "Full Description: High Speed Smart 5G Router 2 Eth + 1 RS232 /RS485 + High-speed dual-band Wi-Fi. Short Description: Industrial 5G Router. Serial Port: Supports RS232 and 485 serial port. Ethernet: Supports 2 x Ethernet ethernet port. USB: No USB port available. Channels: Supports 8 s. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory: 16mb. Input Protocol: Supports Modbus RTU and TCP input protocol. Output Protocol: Supports IPSec, mqtt, dnp3, iec104, and L2TP output protocol. Cloud Connectivity: Cloud connectivity available. SIM Card: Supports dual 5G SIM cards. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "NT-RTU-23",
+    "description": "Full Description: Industrial Cellular Modem 2 ETH+ 1 RS232/RS485 + 1 DI + 1 DO. Short Description: VPN Router. Serial Port: Supports RS232 and 485 serial port. Ethernet: Supports 2 x Ethernet ethernet port. USB: No USB port available. Channels: Supports 10 s. No Analog Input ports. No Analog Output ports. 8 Digital Input ports. 8 Digital Output ports. Memory: Memory: 16mb. Input Protocol: Supports Modbus RTU and TCP input protocol. Output Protocol: Supports IPSec, mqtt, dnp3, iec104, and L2TP output protocol. Cloud Connectivity: Cloud connectivity available. SIM Card: Supports dual 4G SIM cards. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "NT-RTU-24",
+    "description": "Full Description: Embedded 4G Router 2 Ethernet + Wi-Fi + 1 SIM + 1 RS232/RS485. Short Description: Industreial 4G Router. Serial Port: Supports RS232 and 486 serial port. Ethernet: Supports 2 x Ethernet ethernet port. USB: No USB port available. Channels: Supports 10 s. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory: 16mb. Input Protocol: Supports Modbus RTU and TCP input protocol. Output Protocol: Supports IPSec, mqtt, dnp3, iec104, and L2TP output protocol. Cloud Connectivity: Cloud connectivity available. SIM Card: Supports a single 4G SIM card. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "NT-201-S-U",
+    "description": "Full Description: LoRa To RS232/422/485 Converter. Short Description: LoRa To Serial Converter. Serial Port: Supports RS232 and 487 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 10 s. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory: 16kb. Input Protocol: Supports Modbus RTU input protocol. Output Protocol: Supports Lora output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "NT-201-DIO-U",
+    "description": "Full Description: LoRa To 4 Digital Input & 3 Digital Output Module. Short Description: LoRa Digital I/O Module. Serial Port: not available. Ethernet: not available. USB: No USB port available. Channels: Supports 8 s. No Analog Input ports. No Analog Output ports. 4 Digital Input ports. 3 Digital Output ports. Memory: Memory: 128kb. Input Protocol: Supports Digital Input & Output input protocol. Output Protocol: Supports Lora output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "NTS-201-AI",
+    "description": "Full Description: Analog Input To LoRaWAN Converter. Short Description: LoRaWAN Converter. Serial Port: not available. Ethernet: not available. USB: No USB port available. Channels: Supports 8 s. 8 Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory: 16kb. Input Protocol: Supports Analog Input(0-10VDC and 4-20mA) input protocol. Output Protocol: Supports LoraWAN output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "NTS-201-AO",
+    "description": "Full Description: Analog Output To LoRa Converter. Short Description: LoRawan Converter. Serial Port: not available. Ethernet: not available. USB: No USB port available. Channels: Supports 8 s. No Analog Input ports. 8 Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory: 380kb. Input Protocol: Supports Analog Output input protocol. Output Protocol: Supports LoraWAN output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "NTS-201-DIO",
+    "description": "Full Description: 2 DI & 2 DO To LoRaWAN Module. Short Description: LoRaWAN Converter. Serial Port: not available. Ethernet: not available. USB: No USB port available. Channels: Supports 8 s. No Analog Input ports. No Analog Output ports. 2 Digital Input ports. 2 Digital Output ports. Memory: Memory: 380kb. Input Protocol: Supports Digital Input & Output input protocol. Output Protocol: Supports LoraWAN output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "NT-201-E-MODBUS",
+    "description": "Full Description: Modbus Ethernet To LoRa Converter. Short Description: LoRa Converter. Serial Port: not available. Ethernet: Supports TCP and IP ethernet port. USB: No USB port available. Channels: Supports 8 s. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory: 128kb. Input Protocol: Supports Modbus TCP and IP input protocol. Output Protocol: Supports LoRa output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "USB232",
+    "description": "Full Description: RS232 To USB onverter. Short Description: RS232 Converter. Serial Port: Supports RS232 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 1 . No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports RS232 input protocol. Output Protocol: Supports USB output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "USB485",
+    "description": "Full Description: RS485 To USB onverter. Short Description: RS485 Converter. Serial Port: Supports RS485 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 1 . No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports RS485 input protocol. Output Protocol: Supports USB output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "NT-832-AH-E",
+    "description": "Full Description: Ethernet To Wi-Fi Converter. Short Description: Wi-Fi Converter. Serial Port: not available. Ethernet: Supports TCP and IP ethernet port. USB: No USB port available. Channels: Supports 1 . No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports TCP and IP input protocol. Output Protocol: Supports Wi-Fi output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "NT-832-AH-485",
+    "description": "Full Description: RS485 To Wi-Fi. Short Description: Wi-Fi Converter. Serial Port: Supports RS485 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 1 . No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports RS485 input protocol. Output Protocol: Supports Wi-Fi output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "NT-201-G-WAN+4G",
+    "description": "Full Description: Ethernet To LoRaWAN Gateway. Short Description: LoRaWAN Gateway. Serial Port: not available. Ethernet: Supports TCP and IP ethernet port. USB: No USB port available. Channels: Supports 8 s. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory: 32 mb. Input Protocol: Supports TCP and IP input protocol. Output Protocol: Supports UDP, MQTT, DHCP, and Static IP and DHCP Server output protocol. Cloud Connectivity: Cloud connectivity available. SIM Card: Supports a single 4G SIM card. Wi-Fi: No Wi-Fi support. Micro SD: Includes MicroSD slot."
+  },
+  {
+    "model_no": "NT-632-PI-CM4",
+    "description": "Full Description: Programmable Gateway. Short Description: Risbery PI Gateway. Serial Port: Supports RS232, 485, and 422 serial port. Ethernet: Supports TCP and IP ethernet port. USB: No USB port available. Channels: Supports 1 . No Analog Input ports. No Analog Output ports. 1 Digital Input port. 1 Digital Output port. Memory: Memory: 8/16/32gb. Input Protocol: Supports Modbus RTU and TCP input protocol. Output Protocol: Supports MQTT output protocol. Cloud Connectivity: Cloud connectivity available. SIM Card: Supports a single 4G SIM card. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "tNS-200IN",
+    "description": "Full Description: 10/100 Base-TX, PoE injector for 1 PoE port. Short Description: POE Splitter. Serial Port: not available. Ethernet: Supports TCP and IP ethernet port. USB: No USB port available. Channels: Supports 1 . No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports TCP and IP input protocol. Output Protocol: Supports POE output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "NT-4421",
+    "description": "Full Description: 4DI, 2DO, 4AI, With RS485. Short Description: IOT Gateway. Serial Port: Supports RS485 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 1 . 4 Analog Input ports. No Analog Output ports. 2 Digital Input ports. 2 Digital Output ports. Memory: Memory not available. Input Protocol: Supports Modbus RTU input protocol. Output Protocol: Supports MQTT output protocol. Cloud Connectivity: Cloud connectivity available. SIM Card: Supports a single 4G SIM card. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "NT-S1-4G",
+    "description": "Full Description: RS485 To Server. Short Description: 4G IOT Gateway. Serial Port: Supports RS485 serial port. Ethernet: not available. USB: No USB port available. Channels: Supports 6 s. No Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports Modbus RTU input protocol. Output Protocol: Supports MQTT output protocol. Cloud Connectivity: Cloud connectivity available. SIM Card: Supports a single 4G SIM card. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "NT-T20-4G",
+    "description": "Full Description: Tempreture and Humidity data Logger. Short Description: Tempreture Data Logger. Serial Port: not available. Ethernet: not available. USB: No USB port available. Channels: Supports 1 . No Analog Input ports. No Analog Output ports. 2 Digital Input ports. 2 Digital Output ports. Memory: Memory: yes. Input Protocol: Supports Tempreture & Humidity input protocol. Output Protocol: Supports MQTT output protocol. Cloud Connectivity: Cloud connectivity available. SIM Card: Supports a single 4G SIM card. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  },
+  {
+    "model_no": "NT-MB307B",
+    "description": "Full Description: Analog and Digital I/O To Modbus RTU or TCP/IP Converter. Short Description: Multifunction I/O To Modbus RTU/TCP Converter. Serial Port: Supports RS485 and 232 serial port. Ethernet: Supports TCP and IP ethernet port. USB: No USB port available. Channels: Supports 8 s. 8 Analog Input ports. No Analog Output ports. No Digital Input ports. No Digital Output ports. Memory: Memory not available. Input Protocol: Supports Analog and Digital I and O Module input protocol. Output Protocol: Supports Modbus RTU and TCP output protocol. Cloud Connectivity: Cloud connectivity via external modem. SIM Card: No SIM support available. Wi-Fi: No Wi-Fi support. Micro SD: No MicroSD support."
+  }
+]
