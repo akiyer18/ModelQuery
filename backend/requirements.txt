@@ -1,0 +1,11 @@
+unstructured
+tiktoken
+pinecone
+pypdf
+langchain
+langchain-community
+langchain-openai
+openai
+pandas
+numpy
+python-dotenv
