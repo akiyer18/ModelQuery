@@ -10,7 +10,7 @@ function App() {
   const searchModels = async (searchQuery) => {
     setLoading(true)
     setError(null)
-    
+    // '/api/query' for local
     try {
       const response = await fetch(`${import.meta.env.VITE_API_URL}/api/query`, {
         method: 'POST',
